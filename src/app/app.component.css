@@ -1,0 +1,4 @@
+.page-container {
+    height: 100vh; /* Set the height to the height of the viewport */
+    width: 100vw; /* Set the width to the width of the viewport */
+}

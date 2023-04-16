@@ -1,0 +1,8 @@
+a.default {
+    cursor:pointer;
+    transition: duration 300ms;
+}
+
+a.default:hover{
+    color: text-gray-800;
+}
