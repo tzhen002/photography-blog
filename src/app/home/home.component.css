@@ -1,0 +1,14 @@
+.splash-image {
+    width: 100%;
+    height: 600px; /* set the desired height */
+    background-image: url('../../assets/images/DSC06167.JPG');
+    background-size: cover;
+    background-position: center;
+    filter: brightness(75%);
+  }
+
+.portrait-image {
+    max-width: 100%;
+    height: 800px; /* set the desired height */
+    object-fit: contain;
+}
